@@ -1,2 +1,2 @@
-# Customer-Data-Analysis-Dashboard
-This project focuses on analyzing customer shopping data from 10 different malls in Istanbul between 2021 and 2023. The objective is to identify key trends and patterns in consumer behavior using Power BI for data cleaning, visualization, and SQL Server for data connection and extraction.
+# Customer Data Analysis Using Power BI and SQL
+The objective of this project is to analyze customer shopping data using SQL and Power BI to uncover patterns and trends across demographics, product categories, payment methods, and mall performance. The analysis aims to provide actionable insights that can help businesses optimize marketing strategies, improve customer targeting, and enhance overall sales performance
