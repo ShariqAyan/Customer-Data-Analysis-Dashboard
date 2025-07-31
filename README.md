@@ -28,3 +28,12 @@ Dashboard Interaction <a href="https://github.com/ShariqAyan/Customer-Data-Analy
 ## Dashboard
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
 
+## Project Insight
+1.Female customers generated around 58% of the total revenue, even though they made only 38% of total purchases.
+2.Books accounted for approximately 22% of total product purchases, making it the most purchased category.
+3.The 55–64 age group contributed nearly 33% of the overall revenue, making them the highest spending age segment.
+4.Cash was used in 42% of all transactions, making it the most preferred payment method, followed by credit cards at 36.6%.
+5.Mall 1 and Kanyon together generated over 35% of total mall revenue, indicating they are top-performing shopping locations.
+6.Female customers purchased 68% of all cosmetics and 61% of clothing items, while male customers dominated book and technical product purchases.
+
+
