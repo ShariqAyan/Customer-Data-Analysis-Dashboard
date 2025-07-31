@@ -17,4 +17,4 @@ The objective of this project is to analyze customer shopping data using SQL and
 9.	Does the payment method have a relation with other columns?
 10.	How is the distribution of the payment method?
 
-Dashboard Interaction <a href="https://github.com/ShariqAyan/Customer-Data-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/ShariqAyan/Customer-Data-Analysis-Dashboard/blob/main/Internship%20Project.pbix">View Dashboard</a>
