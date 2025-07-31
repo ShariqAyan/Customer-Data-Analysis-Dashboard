@@ -36,6 +36,6 @@ Dashboard Interaction <a href="https://github.com/ShariqAyan/Customer-Data-Analy
 5.Mall 1 and Kanyon together generated 35% of total revenue.
 
 ## Final Conclusion:
-The analysis reveals clear patterns in customer shopping behavior based on gender, age, product category, payment method, and mall location. By leveraging these insights, businesses can tailor marketing strategies, optimize product stocking, and improve customer engagement. Focusing on high-value customer segments—such as female shoppers and the 55–64 age group—along with popular product categories like books and cosmetics, can lead to better revenue outcomes and enhanced customer satisfaction.
+The analysis reveals clear patterns in customer behavior across demographics, product preferences, payment choices, and mall performance. Clothing emerged as the most purchased and highest revenue-generating category, while customers aged 55–64 proved to be the most valuable segment. Cash remained the most preferred payment method. Among all locations, Mall 1 and Kanyon consistently outperformed others in total sales. These insights enable data-driven strategies to refine customer targeting, optimize inventory planning, and improve overall sales performance across malls.
 
 
