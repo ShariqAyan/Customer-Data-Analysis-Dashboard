@@ -18,3 +18,9 @@ The objective of this project is to analyze customer shopping data using SQL and
 10.	How is the distribution of the payment method?
 
 Dashboard Interaction <a href="https://github.com/ShariqAyan/Customer-Data-Analysis-Dashboard/blob/main/Internship%20Project.pbix">View Dashboard</a>
+
+## Process
+1. Extracted raw customer data from the database server using SQL queries.  
+2. Cleaned and prepared the data in Power BI by removing duplicates, handling missing values, and formatting fields.  
+3. Created data model relationships and developed interactive dashboards with calculated fields and visuals.  
+4. Analyzed customer behavior and generated actionable insights for business improvement.
