@@ -24,3 +24,7 @@ Dashboard Interaction <a href="https://github.com/ShariqAyan/Customer-Data-Analy
 2. Cleaned and prepared the data in Power BI by removing duplicates, handling missing values, and formatting fields.  
 3. Created data model relationships and developed interactive dashboards with calculated fields and visuals.  
 4. Analyzed customer behavior and generated actionable insights for business improvement.
+
+## Dashboard
+<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
+
