@@ -29,11 +29,11 @@ Dashboard Interaction <a href="https://github.com/ShariqAyan/Customer-Data-Analy
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
 
 ## Project Insight
-1.Female customers contributed 58% of total revenue with only 38% of purchases.  
-2.Books were the top-selling category, making up 22% of total sales.  
-3.Age group 55–64 generated the highest revenue at 33%.  
-4.Cash was the most used payment method (42% of transactions).  
-5.Mall 1 and Kanyon together drove 35% of overall revenue.
+1.Female customers gave 58% revenue with just 38% of purchases.  
+2.Clothing was the top category by both quantity and revenue.  
+3.Age group 55–64 spent the most among all age segments.  
+4.Cash was used in 42% of all transactions.  
+5.Mall 1 and Kanyon together generated 35% of total revenue.
 
 ## Final Conclusion:
 The analysis reveals clear patterns in customer shopping behavior based on gender, age, product category, payment method, and mall location. By leveraging these insights, businesses can tailor marketing strategies, optimize product stocking, and improve customer engagement. Focusing on high-value customer segments—such as female shoppers and the 55–64 age group—along with popular product categories like books and cosmetics, can lead to better revenue outcomes and enhanced customer satisfaction.
