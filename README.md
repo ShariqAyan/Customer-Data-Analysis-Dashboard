@@ -29,11 +29,11 @@ The objective of this project is to analyze customer shopping data using SQL and
 ## Project Insight
 1.Female customers gave 58% revenue with just 38% of purchases.  
 2.Clothing was the top category by both quantity and revenue.  
-3.Age group 55–64 spent the most among all age segments.  
+3.Age group 35–44 spent the most among all age segments.  
 4.Cash was used in 42% of all transactions.  
 5.Mall of Istanbul and Kanyon together generated 35% of total revenue.
 
 ## Final Conclusion:
-The analysis reveals clear patterns in customer behavior across demographics, product preferences, payment choices, and mall performance. Clothing emerged as the most purchased and highest revenue-generating category, while customers aged 55–64 proved to be the most valuable segment. Cash remained the most preferred payment method. Among all locations, Mall of Istanbul and Kanyon consistently outperformed others in total sales. These insights enable data-driven strategies to refine customer targeting, optimize inventory planning, and improve overall sales performance across malls.
+The analysis reveals clear patterns in customer behavior across demographics, product preferences, payment choices, and mall performance. Clothing emerged as the most purchased and highest revenue-generating category, while customers aged 35–44 proved to be the most valuable segment. Cash remained the most preferred payment method. Among all locations, Mall of Istanbul and Kanyon consistently outperformed others in total sales. These insights enable data-driven strategies to refine customer targeting, optimize inventory planning, and improve overall sales performance across malls.
 
 
