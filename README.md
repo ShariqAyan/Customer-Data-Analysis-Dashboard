@@ -29,7 +29,7 @@ The objective of this project is to analyze customer shopping data using SQL and
 ## Project Insight
 1.Female customers gave 58% revenue with just 38% of purchases.  
 2.Clothing was the top category by both quantity and revenue.  
-3.Age group 55–64 spent the most among all age segments.  
+3.Age group 45–54 spent the most among all age segments.  
 4.Cash was used in 42% of all transactions.  
 5.Mall of Istanbul and Kanyon together generated 35% of total revenue.
 
