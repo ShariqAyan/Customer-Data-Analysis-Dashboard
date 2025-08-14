@@ -34,6 +34,6 @@ The objective of this project is to analyze customer shopping data using SQL and
 5.Mall of Istanbul and Kanyon together generated 35% of total revenue.
 
 ## Final Conclusion:
-The analysis reveals clear patterns in customer behavior across demographics, product preferences, payment choices, and mall performance. Clothing emerged as the most purchased and highest revenue-generating category, while customers aged 55–64 proved to be the most valuable segment. Cash remained the most preferred payment method. Among all locations, Mall of Istanbul and Kanyon consistently outperformed others in total sales. These insights enable data-driven strategies to refine customer targeting, optimize inventory planning, and improve overall sales performance across malls.
+The analysis reveals clear patterns in customer behavior across demographics, product preferences, payment choices, and mall performance. Clothing emerged as the most purchased and highest revenue-generating category, while customers aged 45–54 proved to be the most valuable segment. Cash remained the most preferred payment method. Among all locations, Mall of Istanbul and Kanyon consistently outperformed others in total sales. These insights enable data-driven strategies to refine customer targeting, optimize inventory planning, and improve overall sales performance across malls.
 
 
